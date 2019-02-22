@@ -160,6 +160,32 @@ header nav a:hover {
   padding: 10px;
 }
 
+#portafolio {
+  background-color: whitesmoke;
+}
+
+#portafolio .box {
+  display: inline-block;
+  text-align: center;
+  width: 31%;
+  height: 25%;
+  margin: 1%;
+  background-color: white;
+  padding: 20px;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+#portafolio .box img{
+  width: 100%;
+  height: auto
+}
+
+#portafolio .box p {
+  color: #666;
+  padding: 10px;
+}
+
 #contact {
   background-image: linear-gradient(aliceblue, cornflowerblue);
   background-repeat: no-repeat;
