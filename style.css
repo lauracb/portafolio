@@ -233,3 +233,6 @@ section h2 {
   margin-right: auto;
 }
 
+.my-fa-facebook-f:before {
+  content: "\f082";
+}
